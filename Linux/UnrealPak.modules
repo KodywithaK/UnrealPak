@@ -1,0 +1,18 @@
+{
+	"BuildId": "50cf7f0f-386b-4eb7-9149-e25273a970d1",
+	"Modules": 
+	{
+		"Analytics": "libUnrealPak-Analytics.so",
+		"BuildSettings": "libUnrealPak-BuildSettings.so",
+		"Core": "libUnrealPak-Core.so",
+		"CoreUObject": "libUnrealPak-CoreUObject.so",
+		"DerivedDataCache": "libUnrealPak-DerivedDataCache.so",
+		"Json": "libUnrealPak-Json.so",
+		"PakFile": "libUnrealPak-PakFile.so",
+		"PakFileUtilities": "libUnrealPak-PakFileUtilities.so",
+		"Projects": "libUnrealPak-Projects.so",
+		"RSA": "libUnrealPak-RSA.so",
+		"SSL": "libUnrealPak-SSL.so",
+		"TraceLog": "libUnrealPak-TraceLog.so"
+	}
+}
